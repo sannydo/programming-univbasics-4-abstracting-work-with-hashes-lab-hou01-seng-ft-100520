@@ -24,4 +24,4 @@ def update_counting_hash(hash, key)
   hash_to_change = {apples: 3}
   updating_counting_hash = hash_to_change += 1
 end
-updating_counting_hash
+update_counting_hash
